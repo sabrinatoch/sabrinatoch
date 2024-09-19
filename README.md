@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 💻 I’m a Computer Science student working as a SW Developer for DFO.
-- 🔎 I’m currently learning Vue/NuXT, Angular & the Spring Java framework with Thymeleaf.
-- 📖 Languages: HTML, CSS, JavaScript, TypeScript, Java, PHP, C#, Python, SQL, T-SQL, PL-SQL
-- 🎆 Frameworks & Libraries: ASP.NET, React.js, Express.js, Node.js.
+- 💻 I’m a Computer Science student working as a Software Developer for DFO.
+- 📖 Languages: HTML, CSS, TypeScript, Java, C#, Python, PHP, SQL
+- 🎆 Frameworks & Libraries: ASP.NET, React, Angular, Express.js, Node.js.
 - ☕ Fun fact: I like coffee, cats and math.
